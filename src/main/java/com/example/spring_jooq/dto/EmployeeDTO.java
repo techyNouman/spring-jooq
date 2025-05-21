@@ -1,4 +1,4 @@
-package com.example.spring_jooq;
+package com.example.spring_jooq.dto;
 
 import lombok.*;
 import com.example.spring_jooq.generated.tables.pojos.Department;
